@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = missbrooks365@gmail.com
+	name = Courtney Brooks missbrooks365@gmail.com
